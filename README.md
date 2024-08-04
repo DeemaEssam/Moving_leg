@@ -50,6 +50,8 @@ REPEAT loop
 
 ```
 
+Then same steps to move the lef leg
+
 <img width="424" width="324" alt="1-moving foot right" src="https://github.com/user-attachments/assets/ba851b82-b68e-4618-bf5b-077ca63b6d55">
 
 <img width="424" width="324" alt="2-moving right leg forward" src="https://github.com/user-attachments/assets/b6cf52ab-cc83-43a9-a444-27fe140d4887">
