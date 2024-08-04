@@ -50,14 +50,15 @@ REPEAT loop
 
 ```
 
-<img width="424" alt="1-moving foot right" src="https://github.com/user-attachments/assets/ba851b82-b68e-4618-bf5b-077ca63b6d55">
+<img width="424" width="324" alt="1-moving foot right" src="https://github.com/user-attachments/assets/ba851b82-b68e-4618-bf5b-077ca63b6d55">
 
-<img width="482" alt="2-moving right leg forward" src="https://github.com/user-attachments/assets/dbc7fcc3-f3d7-4cd2-ae4a-721fe2954f3d">
+<img width="424" width="324" alt="2-moving right leg forward" src="https://github.com/user-attachments/assets/b6cf52ab-cc83-43a9-a444-27fe140d4887">
 
-<img width="497" alt="3-move right right" src="https://github.com/user-attachments/assets/edfbec8d-9b0d-47ef-94d8-28170ef49b8f">
+<img width="424" width="324" alt="3-move right right" src="https://github.com/user-attachments/assets/5bcf4135-9b5b-4657-b736-05b8be45f441">
 
-<img width="431" alt="4-foot back" src="https://github.com/user-attachments/assets/09b14ca9-58ae-4062-8170-b140003ced06">
+<img width="424" width="324" alt="4-foot back" src="https://github.com/user-attachments/assets/fcfb2d85-4f62-424f-a7d4-7460817c57ba">
 
-<img width="427" alt="5-move right back" src="https://github.com/user-attachments/assets/89154f08-d786-4534-8938-80e328beaf85">
 
-<img width="405" alt="6-move left back" src="https://github.com/user-attachments/assets/9e43d120-c1f9-4102-bcf3-d67c2c8be036">
+<img width="424" width="324" alt="5-move right back" src="https://github.com/user-attachments/assets/89154f08-d786-4534-8938-80e328beaf85">
+
+<img width="424" width="324" alt="6-move left back" src="https://github.com/user-attachments/assets/9e43d120-c1f9-4102-bcf3-d67c2c8be036">
