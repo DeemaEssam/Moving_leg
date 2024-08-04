@@ -61,8 +61,7 @@ REPEAT loop
 
 | 5 | 6 |
 | -- | -- |
-|<img width="424" width="324" alt="5-move right back" src="https://github.com/user-attachments/assets/89154f08-d786-4534-8938-80e328beaf85">
- | <img width="424" width="324" alt="6-move left back" src="https://github.com/user-attachments/assets/9e43d120-c1f9-4102-bcf3-d67c2c8be036"> |
+|<img width="424" width="324" alt="5-move right back" src="https://github.com/user-attachments/assets/89154f08-d786-4534-8938-80e328beaf85"> | <img width="424" width="324" alt="6-move left back" src="https://github.com/user-attachments/assets/9e43d120-c1f9-4102-bcf3-d67c2c8be036"> |
 
 
 ***Then, the same steps to move the left leg***
